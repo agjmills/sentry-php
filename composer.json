@@ -1,0 +1,13 @@
+{
+    "name": "asdfx/sentry-php",
+    "description": "PHP Wrapper to the Sentry API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Mills",
+            "email": "alex@asdfx.us"
+        }
+    ],
+    "require": {}
+}
